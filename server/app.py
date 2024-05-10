@@ -27,3 +27,13 @@ db.init_app(app)
 migrate = Migrate(app, db)
 
 # Routes
+
+# PT:
+# Patient Search by name Routes
+
+# Patient Search by ID route
+
+# Delete a Patient by ID
+
+
+
